@@ -7,7 +7,7 @@ Fedor is currently majoring in mechanical engineering at the Sejong University.
 In the course of this micro-research had to canibalize Faraz's data set (https://github.com/farazarbabi/CNN_FEM/blob/master/README.md).
 Hope he is ok with that :)
 
-Interestingly could not apply typical randonm train/test split approach as it did not work for FEM due to data consistency was thus disrupted.
+Interestingly could not apply typical random train/test split approach as it did not work for FEM due to data consistency would be thus disrupted.
 Also applied a couple of slightly more elaborated models architectures.
 Unfortunately could not quickly solve triangulation issues for smoother vizualization of the central hole circle. 
 May be for my later experiments.
